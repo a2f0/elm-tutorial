@@ -1,0 +1,11 @@
+{
+  "name": "elm-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:deepeeess/elm-tutorial.git",
+  "author": "Dan Sullivan <dansullivan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "0.9.5"
+  }
+}
